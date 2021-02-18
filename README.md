@@ -1,6 +1,6 @@
-# Increment Button
-
 ![increment](https://media.giphy.com/media/SUQMjFSJf30XXjliUx/giphy.gif)
+
+# Increment Button
 
 ## Instructions
 
