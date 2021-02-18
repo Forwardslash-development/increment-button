@@ -12,7 +12,7 @@ function IncrementButton() {
     <div>
       <div className={styles.number}>{number}</div>
       <button onClick={increment} className={styles.button}>
-        Click to increment
+        Don't Click
       </button>
     </div>
   );
